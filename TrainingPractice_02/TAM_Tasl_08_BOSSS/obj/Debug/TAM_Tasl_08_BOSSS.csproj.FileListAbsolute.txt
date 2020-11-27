@@ -1,0 +1,7 @@
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\bin\Debug\TAM_Tasl_08_BOSSS.exe.config
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\bin\Debug\TAM_Tasl_08_BOSSS.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\bin\Debug\TAM_Tasl_08_BOSSS.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\obj\Debug\TAM_Tasl_08_BOSSS.csprojAssemblyReference.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\obj\Debug\TAM_Tasl_08_BOSSS.csproj.CoreCompileInputs.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\obj\Debug\TAM_Tasl_08_BOSSS.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Tasl_08_BOSSS\obj\Debug\TAM_Tasl_08_BOSSS.pdb

@@ -1,0 +1,7 @@
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\bin\Debug\TAM_Task_08_labirint2.exe.config
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\bin\Debug\TAM_Task_08_labirint2.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\bin\Debug\TAM_Task_08_labirint2.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\obj\Debug\TAM_Task_08_labirint2.csprojAssemblyReference.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\obj\Debug\TAM_Task_08_labirint2.csproj.CoreCompileInputs.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\obj\Debug\TAM_Task_08_labirint2.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint2\obj\Debug\TAM_Task_08_labirint2.pdb

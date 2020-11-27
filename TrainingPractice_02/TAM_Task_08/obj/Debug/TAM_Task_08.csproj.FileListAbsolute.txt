@@ -1,0 +1,17 @@
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\bin\Debug\TAM_Task_08.exe.config
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\bin\Debug\TAM_Task_08.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\bin\Debug\TAM_Task_08.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.csprojAssemblyReference.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.Form1.resources
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.Properties.Resources.resources
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.csproj.GenerateResource.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.csproj.CoreCompileInputs.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.Form2.resources
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.Form3.resources
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.Form4.resources
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\bin\Debug\TAM_Task_08.exe.manifest
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\bin\Debug\TAM_Task_08.application
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.exe.manifest
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08\obj\Debug\TAM_Task_08.application

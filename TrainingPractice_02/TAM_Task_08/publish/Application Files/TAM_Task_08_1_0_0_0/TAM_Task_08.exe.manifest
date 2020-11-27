@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TAM_Task_08.exe" version="1.0.0.0" publicKeyToken="8ac6bdff0f20cd89" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TAM_Task_08" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TAM_Task_08.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TAM_Task_08.exe" size="403432">
+      <assemblyIdentity name="TAM_Task_08" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/x9+UczUMC1Rvoxww9TwlsJx5Sai1IXPf6wq4/qiCPo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="TAM_Task_08.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-GISG25S\alayze" issuerKeyHash="2bf507057417e0b579769da3c48149ba44145d7a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dyJtr828VL6tBEdTvkVQ+LJ5mRHih7devK6mrrR0xg4=</DigestValue></Reference></SignedInfo><SignatureValue>cV+hQEoUde+Dp7NoOeanZt2prMoVRcKWrYRAkkKDPQwWokVc4uPAtGv2hpouL1OBPR4Re63D5PkPdaLYJ5cvJHzh8yMlNwEFScxpu1eMez7KBnozf+jQtDlMrWCwEmUUsBdbXkNssD7yYBMCGowwMPmEF3RcfWMbyBd58gdLIL0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v9FLRMSn8teterc1sX9dfYjs/N3huizTlcDbektOFYMCrEfhzkjNVNXnMIQtnLLea60alPHBxsDEPgS6iy0NweVlj1+DSkjqudbX1hzD3Wke1Nk4S7supbfoJXmnIIs8OkIP6LGgp05WRVCk/S0cRv0ELRCcrihM8A+GcxI0E/E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0ec674b4aea6aebc5eb787e2119979b2f85045be534704adbe54bccdaf6d2277" Description="" Url=""><as:assemblyIdentity name="TAM_Task_08.exe" version="1.0.0.0" publicKeyToken="8ac6bdff0f20cd89" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-GISG25S\alayze</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>eLxZ4ApqCKMJ1Zn+VHm4vr2jDcgHRKQpJp0iRYJZTBE=</DigestValue></Reference></SignedInfo><SignatureValue>nAFMHExZAEuGpXnhLcbdGaSzooMaEx2aHUcunXYyOp+QkYxuWXpl6RL4qHg8atfeV53m2Nq7yh3tc+n+oVOfy0m8QKF23NLz1CJ+AwhofVpHzTPbrLi/cCLps737mXiW+FFh5K+Ob5hev3rtF0qrjmCNnLTYU5Hi28QD71L/cUM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v9FLRMSn8teterc1sX9dfYjs/N3huizTlcDbektOFYMCrEfhzkjNVNXnMIQtnLLea60alPHBxsDEPgS6iy0NweVlj1+DSkjqudbX1hzD3Wke1Nk4S7supbfoJXmnIIs8OkIP6LGgp05WRVCk/S0cRv0ELRCcrihM8A+GcxI0E/E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQRlasahqvYo9D3hneZorx2DANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAEcASQBTAEcAMgA1AFMAXABhAGwAYQB5AHoAZTAeFw0yMDExMjcxNzI3MTRaFw0yMTExMjcyMzI3MTRaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0ARwBJAFMARwAyADUAUwBcAGEAbABhAHkAegBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/0UtExKfy1616tzWxf119iOz83eG6LNOVwNt6S04VgwKsR+HOSM1U1ecwhC2cst5rrRqU8cHGwMQ+BLqLLQ3B5WWPX4NKSOq51tfWHMPdaR7U2ThLuy6lt+gleacgizw6Qg/osaCnTlZFUKT9LRxG/QQtEJyuKEzwD4ZzEjQT8QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIMuIBULxDQO7+O7aTfFIIVu7XumW274rLr7rtKbbnxT2ra3zYOPYR1jfzR2xc/U+cfi8QBxhkwG8QxvK0Ke4SYzhdIx2YOAXAqQJcROijsaTsx6V+7jsTV4yswFsdoMu2Fs9kSSdW51WNMp+n9H/ktqBZRl8zpKirq3PtM7PPpl</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,6 @@
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint4\bin\Debug\TAM_Task_08_labirint4.exe.config
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint4\bin\Debug\TAM_Task_08_labirint4.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint4\bin\Debug\TAM_Task_08_labirint4.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint4\obj\Debug\TAM_Task_08_labirint4.csproj.CoreCompileInputs.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint4\obj\Debug\TAM_Task_08_labirint4.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\2 НЕДЕЛЯ\TrainingPractice_02\TAM_Task_08_labirint4\obj\Debug\TAM_Task_08_labirint4.pdb
